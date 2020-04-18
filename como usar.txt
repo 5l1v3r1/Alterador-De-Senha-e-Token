@@ -1,0 +1,14 @@
+
+                    Primeiramente baixe a ultima versao do python
+
+        - https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe
+
+        apos ter instalado baixe as dependencias
+
+        Primeiro abra o CMD
+        digite: py -3 -m pip install -U requests
+
+
+    em seguida execute o codigo usando
+
+    py.exe alterador.py
